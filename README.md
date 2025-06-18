@@ -1,0 +1,2 @@
+Este es un proyecto donde aplico algoritmos de agrupamiento (originalmente k-means) al conjunto de datos del futbol europeo. El objetivo principal es formar ligas o grupos 
+con equipos de nivel similar según las estadísticas y datos oficiales del 2015. Es un proyecto bastante entretenido, al final el problema es que los grupos no quedan de tamaños similares por lo que ese problema lo abordo en el otro nb sobre algoritmos de agrupación.
